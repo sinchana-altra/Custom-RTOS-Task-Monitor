@@ -1,0 +1,11 @@
+mkdir -p /home/claude/projects/1-rtos-task-monitor/{firmware,backend,frontend,simulator}
+mkdir -p /home/claude/projects/2-usb-hid-emulator/{emulator,macros,ui}
+mkdir -p /home/claude/projects/3-network-sensor-hub/{firmware,backend,dashboard}
+echo "Directories created"
+Output
+
+Directories created
+
+
+
+
